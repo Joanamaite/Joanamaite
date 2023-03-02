@@ -3,7 +3,7 @@
 <br>
 👩‍💻 Estudando React js
 <br>
-💼 Pretendo atuar como Front-end
+💼 Pretendo trabalhar como desenvolvedor Front-end
 
 ![ Joana Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanamaite&show_icons=true&theme=tokyonight)
 
