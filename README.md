@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Joana Maitê Rodrigues ✋ 
 📚 Estou no terceiro ano de informática na escola técnica estadual Monteiro Lobato
 <br>
-👩‍💻 Estudando React js
+👩‍💻 Estudando Vuejs
 <br>
 💼 Pretendo trabalhar como desenvolvedor Front-end
 
