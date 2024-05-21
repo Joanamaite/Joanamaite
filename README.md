@@ -1,9 +1,8 @@
 ### Olá!! Eu sou a Joana Maitê Rodrigues ✋ 
-📚 Estou no terceiro ano de informática na escola técnica estadual Monteiro Lobato
+📚 Estagiária 
 <br>
-👩‍💻 Estudando Vuejs
+👩‍💻 Estudando reactJS
 <br>
-💼 Pretendo trabalhar como desenvolvedora Front-end
 
 ![ Joana Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanamaite&show_icons=true&theme=radical)
 [![ joana Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanamaite&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
