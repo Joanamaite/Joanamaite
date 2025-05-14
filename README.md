@@ -1,5 +1,4 @@
 ### Olá!! Eu sou a Joana Maitê Rodrigues ✋ 
-📚 Estagiária 
 <br>
 👩‍💻 Estudando reactJS
 <br>
